@@ -3,6 +3,7 @@ A standard program for this assignment should accomplish
 everything accomplished by the following code.
 """
 userNum = int(input("Please enter a positive integer: "))
+print("\n")
 
 for i in range(1,userNum + 1):
   for j in range(1,userNum + 1):
