@@ -1,4 +1,4 @@
-## CS1 || Topic 01: Fundamentals || times-table
+## CS1 >> Topic 01: Fundamentals >> times-table
 
 In this assignment, students create an aligned times table using a loop structure of their choice.
 
