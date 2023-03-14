@@ -31,9 +31,25 @@ for i in range(1,userNum + 1):
     assume a maximum of 4 digits, and would instead
     calculate that maximum before determining numSpaces:
 
-    maxDigits = userNum * userNum # this should be placed prior to the for loops
+    maxDigits = len(str(userNum * userNum)) # this should be placed prior to the for loops
     numSpaces = (maxDigits + 1) - numDigits
 """
 
 """
+It is possible to achieve the desired result with a single
+while or for loop, as shown below. Notes (1) and (2) from
+above still apply.
 """
+
+userNum = int(input("Please enter a positive integer: "))
+target = userNum * userNum
+maxDigits = len(str(target))
+current = 1
+
+while current <= target:
+  numDigits = len(str(current))
+  numSpaces = (maxDigits + 1) - numDigits
+  print(current, end = " " * numSpaces)
+  if current % userNum == 0:
+    print("\n")
+  current += 1
