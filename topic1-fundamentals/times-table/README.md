@@ -10,7 +10,7 @@ Using a positive integer _n_ from the user, print to console the _n_ by _n_ time
 
 ### Learning Targets
 
-By the end of this assignment, should be able to:
+By the end of this assignment, you should be able to:
 
 - Evaluate and choose a loop structure based on whether it is well suited to the assigned task.
 - Reuse a single block of code multiple times to solve a problem or complete a task.
