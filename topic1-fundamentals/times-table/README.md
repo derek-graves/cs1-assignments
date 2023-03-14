@@ -6,7 +6,7 @@ In this assignment, students create an aligned times table using a loop structur
 
 Using an integer _n_ from the user, print to console the _n_ by _n_ times table. Each column of the table must be properly aligned, meaning that your program must account for the differing number of digits in the various numbers of the table. See the example below for the desired output.
 
-![Times Table Sample](./times-table-example.jpg)
+<img src="./times-table-example.jpg" alt="Times Table Sample" width="600" height="330">
 
 ### Learning Targets
 
