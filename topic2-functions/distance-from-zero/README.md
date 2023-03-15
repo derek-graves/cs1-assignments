@@ -13,9 +13,7 @@ x = 6
 isinstance(x, str)
 ```
 
-After your function, write some code that shows at least one example of the function returning the absolute value of the argument, and at least one example of the function telling the user they included the wrong input. Sample output is included below.
-
-<img src="./times-table-example.jpg" alt="Times Table Sample" width="600" height="330">
+After your function, write some code that shows at least one example of the function returning the absolute value of the argument, and at least one example of the function telling the user they included the wrong input.
 
 ### Learning Targets
 
