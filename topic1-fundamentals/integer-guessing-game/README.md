@@ -22,11 +22,11 @@ See the examples below for the general format of your output.
 
 Example 1:
 
-<img src="./integer-guessing-game-example1.jpg" alt="Integer Guessing Game Example 1" height="700" width="393">
+<img src="./integer-guessing-game-example1.jpg" alt="Integer Guessing Game Example 1" height="393" width="700">
 
 Example 2:
 
-<img src="./integer-guessing-game-example2.jpg" alt="Integer Guessing Game Example 2" height="700" width="661">
+<img src="./integer-guessing-game-example2.jpg" alt="Integer Guessing Game Example 2" height="661" width="700">
 
 ### Learning Targets
 
