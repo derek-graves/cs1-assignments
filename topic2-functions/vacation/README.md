@@ -33,10 +33,12 @@ Your plan is to write a number of functions that help you calculate the total co
 
 Your program should also include a `main` function, which of course takes no parameters and does not return anything. `main` should inform the user of the purpose of the program and take user input for each of the four parameters of `totalCost`, using those inputs as arguments for `totalCost`. The program should print the total to the user after calculation.
 
+<img src="vacation-example.jpg" alt="Vacation Example" width="600" height="295">
+
 ### Learning Targets
 
 By the end of this assignment, you should be able to:
 
-- Compose user-defined functions to complete a task
+- Compose multiple user-defined functions to complete a task
 - Coordinate return values between multiple composed functions
 - Write a `main` function that utilizes (either directly or indirectly) all other user-defined functions in the program
