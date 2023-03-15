@@ -12,7 +12,6 @@ def distanceFromZero(value):
     
 print(distanceFromZero(-4.5))
 print(distanceFromZero("Testing...1, 2, 3...testing"))
-print(distanceFromZero(True))
 
 
 """
