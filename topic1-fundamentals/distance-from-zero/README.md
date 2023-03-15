@@ -4,7 +4,7 @@ In this assignment, you will write a function that returns to absolute value of 
 
 ### Description
 
-Write a function called `distanceFromZero` that takes one parameter. If the type of the parameter is `int` or `float`, return the absolute value of the input. Otherwise, return a string indicating to the user that they used the wrong input.
+Write a function called `distanceFromZero` that takes one parameter. If the type of the parameter is `int` or `float`, return the absolute value of the input. Otherwise, return a string indicating to the user that they used the wrong input. For the absolute value portion, feel free to use Python's built in `abs` function.
 
 You will likely need the `isinstance` function that is built into Python. This function takes two parameters, an object and a datatype, and returns a boolean indicating whether the object was of the given type. For example, the following call to the function would evaluate to False, because x is not a string.
 
@@ -21,7 +21,7 @@ After your function, write some code that shows at least one example of the func
 
 By the end of this assignment, you should be able to:
 
-- Evaluate and choose a loop structure based on whether it is well suited to the assigned task.
-- Reuse a single block of code multiple times to solve a problem or complete a task.
-- Create customized `print()` statements using the keyword argument `end`.
-- Properly align text in the console by dynamically allocating and printing the correct number of spaces.
+- Write a function that accomplishes a given task
+- Differentiate between parameters and arguments
+- Return correct values--and only correct values--from a function
+- Test code for intended behavior and unforeseen errors
