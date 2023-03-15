@@ -9,9 +9,8 @@ You're going on vacation! But you need to know the cost of that vacation...
 So your plan is to write a number of functions that help you calculate the total cost of a vacation. Here are the functions you'll need to write:
 
 1. `hotelCost`
-   parameters
-   - nights: the number of nights you'll stay
-   - nightlyRate: the cost of the hotel per night
+   - param: `nights` - the number of nights you'll stay
+   - param: `nightlyRate` - the cost of the hotel per night
 
 ### Learning Targets
 
