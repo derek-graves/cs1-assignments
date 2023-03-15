@@ -21,7 +21,10 @@ Feel free to give the computer some "personality" elements, such as words of enc
 See the examples below for the general format of your output.
 
 Example 1:
+
 <img src="./integer-guessing-game-example1.jpg" alt="Integer Guessing Game Example 1" height="700" width="393">
+
+Example 2:
 
 <img src="./integer-guessing-game-example2.jpg" alt="Integer Guessing Game Example 2" height="700" width="661">
 
