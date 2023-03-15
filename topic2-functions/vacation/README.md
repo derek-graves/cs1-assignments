@@ -25,19 +25,18 @@ Your plan is to write a number of functions that help you calculate the total co
      - if the car is rented for three or more days, a one-time discount of $20 is applied
      - only one discount may be applied per rental
 4. `totalCost`
-   - param {int}: `days`- the number of days you're staying
+   - param {int}: `days` - the number of days you're staying
    - param {int}: `nights` - the number of nights you're staying
    - param {float}: `hotelRate` - the nightly cost of the hotel
    - param {str}: `city` - the city to which you're travelling
    - return {float}: the total cost of the entire facation
 
-Your program should also include a `main` function, which of course takes no parameters and does not return anything. `main` should inform the user of the purpose of the program and take user input for each of the four parameters of `totalCost`, using those inputs as arguments for the `totalCost`. The program should print the total to the user after calculation.
+Your program should also include a `main` function, which of course takes no parameters and does not return anything. `main` should inform the user of the purpose of the program and take user input for each of the four parameters of `totalCost`, using those inputs as arguments for `totalCost`. The program should print the total to the user after calculation.
 
 ### Learning Targets
 
 By the end of this assignment, you should be able to:
 
-- Write a function that accomplishes a given task
-- Differentiate between parameters and arguments
-- Return correct values--and only correct values--from a function
-- Test code for intended behavior and unforeseen errors
+- Compose user-defined functions to complete a task
+- Coordinate return values between multiple composed functions
+- Write a `main` function that utilizes (either directly or indirectly) all other user-defined functions in the program
