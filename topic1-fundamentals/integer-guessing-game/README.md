@@ -20,14 +20,20 @@ Feel free to give the computer some "personality" elements, such as words of enc
 
 See the examples below for the general format of your output.
 
-Example 1:
+**Example 1:**
 
 <img src="./integer-guessing-game-example1.jpg" alt="Integer Guessing Game Example 1" height="337" width="600">
 
-Example 2:
+**Example 2:**
 
 <img src="./integer-guessing-game-example2.jpg" alt="Integer Guessing Game Example 2" height="567" width="600">
 
 ### Learning Targets
 
 By the end of this assignment, you should be able to:
+
+- Import modules and use functions from imported modules.
+- Reuse a single block of code multiple times to solve a problem or complete a task.
+- Break loops when necessary
+- Implement code that involves a high level of user interactivity
+- Maintain the readability of my code by using succinct, effective comments and highly descriptive variable names
