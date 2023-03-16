@@ -37,4 +37,8 @@ Your program should also include a `main` function, which of course takes no par
 
 By the end of this assignment, you should be able to:
 
-- Placeholder text
+- Compose multiple user-defined functions to complete a task
+- Coordinate return values between multiple composed functions
+- Write a main function that utilizes (either directly or indirectly) all other user-defined functions in the program
+- Apply the logic and rules of modular arithmetic to determine whether a year is a leap year
+- Decompose a large task into smaller sub-tasks, writing a function to accomplsih each sub-task
