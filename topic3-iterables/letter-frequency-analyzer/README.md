@@ -17,7 +17,7 @@ The function's requirements are listed below
 
 Include a main function that demonstrates your function analying at least two different strings. Ensure that you print the frequency lists to console.
 
-<img src="./letter-frequency-analyzer-example" alt="Letter Frequency Analyzer Example" width="800" height="134">
+<img src="./letter-frequency-analyzer-example.jpg" alt="Letter Frequency Analyzer Example" width="800" height="134">
 
 ### Learning Targets
 
