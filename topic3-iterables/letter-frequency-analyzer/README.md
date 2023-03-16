@@ -23,5 +23,7 @@ Include a main function that demonstrates your function analying at least two di
 
 By the end of this assignment, you should be able to:
 
-- Placeholder text
--
+- Initialize an empty list
+- Append elements to a list using the `.append()` method
+- Access and update list elements via index references
+- Step through a string character by character, performing operations on each character

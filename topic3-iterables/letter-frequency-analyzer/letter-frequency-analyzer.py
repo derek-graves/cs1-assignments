@@ -18,8 +18,8 @@ def letterFrequencyAnalyzer(string):
     return frequencyList
 
 def main():
-    print(letterFrequencyAnalyzer("This is a test."))
     print(letterFrequencyAnalyzer(input("Please enter a string: ")))
+    print(letterFrequencyAnalyzer(input("Please enter another string: ")))
 
 main()
 
