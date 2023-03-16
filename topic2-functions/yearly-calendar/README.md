@@ -31,7 +31,7 @@ The functions needed are listed below:
 
 Your program should also include a `main` function, which of course takes no parameters and does not return anything. `main` should prompt the user for the year and the integer corrresponding the day of January 1st. It will be wise to carefully consider how you ask the user for the day of the week, as they won't necessarily understand the encoding of the days with integers 0-6. Though it may be obvious at this point, `main` should also call `printYearCalendar`.
 
-<img src="" alt="" width="600" height="295">
+<img src="./yearly-calendar-example.jpg" alt="Yearly Calendar Example" width="581" height="1530">
 
 ### Learning Targets
 
