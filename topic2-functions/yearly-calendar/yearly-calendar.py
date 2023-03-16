@@ -61,7 +61,7 @@ def printYearCalendar(year, startDay):
     febDays = 29
 
   endDayTracker = startDay
-  
+
   print("January", year)
   endDayTracker = printMonthCalendar(31, endDayTracker) + 1
 
@@ -110,3 +110,11 @@ def main():
 
 
 main()
+
+"""
+Please note that students will return to this assignment
+during the Lists topic, rewriting the printYearCalendar
+using lists. The above method is obviously not the most
+optimal method, but it uses the knowledge students have
+at the time of completing this assignment.
+"""
