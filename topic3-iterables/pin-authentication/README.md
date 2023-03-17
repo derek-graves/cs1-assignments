@@ -22,7 +22,7 @@ NUM: 1 1 1 2 3 1 2 3 3 2
 
 Write a program to simulate this authentication process. Store an actual 5-digit PIN as a constant in your program. Use a list to assign random numbers to the digits 0 through 9. Output the random digits to the screen, input the response from the user, and output whether the authentication is successful.
 
-Think about how to break down your implementation into functions. You should have _at least two_ non-main functions.
+Think about how to break down your implementation into functions. You should have _at least three_ non-main functions, each of which should have a clear purpose.
 
 Include a main function that allows a user to interact with your program. The output should look like the sample below (the PIN in the sample is 75309).
 
@@ -34,4 +34,7 @@ Include a main function that allows a user to interact with your program. The ou
 
 By the end of this assignment, you should be able to:
 
-- Placeholder text
+- Convert lists to strings and strings to lists, maintaining the integrity of data contained in both data types
+- Encrypt PIN numbers using a randomized cipher
+- Decompose a large task into smaller subtasks
+- Write multiple functions, each of which accomplish exactly one thing
