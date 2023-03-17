@@ -4,7 +4,9 @@ In this assignment, you will write two different programs to practice recursion.
 
 ### Description
 
-For each of the parts below, implement the function described. Then write a main function that demonstrates the functionality of each part. You only need one file for the whole assignment, but be sure to delineate (in both the code and the output) which is which.
+For each of the parts below, implement the function described. Then write a main function that demonstrates the functionality of each part. Be sure to test many cases before turning in your assignment. The edge cases for recursive functions can be particularly tricky...
+
+You only need one file for the whole assignment, but be sure to delineate (in both the code and the output) which is which.
 
 #### Part A
 
@@ -22,4 +24,7 @@ Write a recursive function that takes as input an integer _n_ and returns the nu
 
 By the end of this assignment, you should be able to:
 
-- Placeholder text
+- Implement recursion by calling a function within its definition
+- Capture recursive function calls using base cases
+- Test code for intended and unintended behavior, including edge cases
+- Adapt code to account for edge cases, if needed
