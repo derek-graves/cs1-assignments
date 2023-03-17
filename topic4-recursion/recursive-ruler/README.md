@@ -12,11 +12,11 @@ Write a recursive function that takes a positive integer _n_ and prints to conso
 - The lines in the middle of each half, corresponding to 1/4 and 3/4, contain (_n_ - 1) marks
 - The lines at 1/8, 3/8, 5/8, and 7/8 each contain (_n_ - 2) marks
 - And so on, all the way until the end, where:
-- The lines at the 1/2k, 3/2k, 5/2k, ..., (2<sup>_k_</sup> - 1)/(2<sup>_k_</sup>) locations contain 1 mark.
+- The lines at the 1/2k, 3/2k, 5/2k, ..., (2<sup>_k_</sup> - 1) / (2<sup>_k_</sup>) locations contain 1 mark.
 
 **Example:**
 
-<img src="./recursive-ruler-example.jpg" alt="Recursive Ruler Example" width="500" height="119">
+<img src="./recursive-ruler-example.jpg" alt="Recursive Ruler Example" width="500" height="494">
 
 ### Learning Targets
 
