@@ -26,7 +26,9 @@ Think about how to break down your implementation into functions. You should hav
 
 Include a main function that allows a user to interact with your program. The output should look like the sample below (the PIN in the sample is 75309).
 
-<img src="./pin-authentication-example.jpg" alt="PIN Authentication example" width="800" height="134">
+<img src="./pin-authentication-example1.jpg" alt="PIN Authentication Example 1" width="500" height="130">
+
+<img src="./pin-authentication-example2.jpg" alt="PIN Authentication Example 2" width="500" height="130">
 
 ### Learning Targets
 
