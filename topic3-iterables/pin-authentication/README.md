@@ -36,5 +36,5 @@ By the end of this assignment, you should be able to:
 
 - Convert lists to strings and strings to lists, maintaining the integrity of data contained in both data types
 - Encrypt PIN numbers using a randomized cipher
-- Decompose a large task into smaller subtasks
+- Apply string and list methods to complete tasks
 - Write multiple functions, each of which accomplish exactly one thing
