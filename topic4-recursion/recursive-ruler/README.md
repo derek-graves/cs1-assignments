@@ -4,7 +4,7 @@ In this assignment, you will write a function that prints a digital ruler, recur
 
 ### Description
 
-Write a recursive function that takes a positive integer _n_ and prints to console a vertical ruler, using the following specifications. The ruler will have 2^_n_^ - 1 lines.
+Write a recursive function that takes a positive integer _n_ and prints to console a vertical ruler, using the following specifications. The ruler will have 2<sup>n</sup> - 1 lines.
 
 - Assume the whole ruler is '1'
 - Use one hyphen for each 'mark'
@@ -12,7 +12,7 @@ Write a recursive function that takes a positive integer _n_ and prints to conso
 - The lines in the middle of each half, corresponding to 1/4 and 3/4, contain (_n_ - 1) marks
 - The lines at 1/8, 3/8, 5/8, and 7/8 each contain (_n_ - 2) marks
 - And so on, all the way until the end, where:
-- The lines at the 1/2k, 3/2k, 5/2k, ..., (2^_k_^ - 1)/(2^_k_^) locations contain 1 mark.
+- The lines at the 1/2k, 3/2k, 5/2k, ..., (2<sup>_k_</sup> - 1)/(2<sup>_k_</sup>) locations contain 1 mark.
 
 **Example:**
 
