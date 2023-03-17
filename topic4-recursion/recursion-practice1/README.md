@@ -10,7 +10,7 @@ Write a recursive function that takes as input an integer _n_ and returns the nt
 
 #### Part B
 
-Write a recursive function that takes as input an integer _n_ and returns the number of digits in _n_. You will need to use the `div` operator, which returns the whoel number portion of the quotient. For example `13 // 3` returns 4 because 13 ÷ 3 = 4 remainder 1.
+Write a recursive function that takes as input an integer _n_ and returns the number of digits in _n_. You will need to use the `div` operator, which returns the whole number portion of the quotient. For example `13 // 3` returns 4 because 13 ÷ 3 = 4 remainder 1.
 
 **Part A Example:**
 
