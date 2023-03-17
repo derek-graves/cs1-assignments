@@ -16,7 +16,7 @@ Write a recursive function that takes a positive integer _n_ and prints to conso
 
 **Example:**
 
-<img src="./recursive-ruler-example.jpg" alt="Recursive Ruler Example" width="500" height="494">
+<img src="./recursive-ruler-example.jpg" alt="Recursive Ruler Example" width="500" height="395">
 
 ### Learning Targets
 
