@@ -27,4 +27,7 @@ A few tips:
 
 By the end of this assignment, you should be able to:
 
-- Placeholder text
+- Write a function with multiple recursion calls
+- Handle base cases in recursive functions
+- Identify recursion visually
+- Decompose a recursive picture into its separate calls
