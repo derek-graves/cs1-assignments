@@ -6,7 +6,7 @@ In this assignment, you will write two different programs to practice recursion.
 
 #### Part A
 
-Write a recursive function that takes as input an integer _n_ and returns the nth 'Tribonacci' number. Tribonacci numbers are like Fibonacci numbers, except the previous three terms are summed to obtain each subsequent term. For more information, see the relevant portion of the [Wikipedia page on Fibonacci generalizaitons](htttps://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Tribonacci_numbers).
+Write a recursive function that takes as input an integer _n_ and returns the nth 'Tribonacci' number. Tribonacci numbers are like Fibonacci numbers, except the previous three terms are summed to obtain each subsequent term. For more information, see the relevant portion of the [Wikipedia page on Fibonacci generalizaitons](https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Tribonacci_numbers).
 
 #### Part B
 
