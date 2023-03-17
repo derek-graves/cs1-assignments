@@ -18,6 +18,11 @@ Write a recursive function that takes a positive integer _n_ and prints to conso
 
 <img src="./recursive-ruler-example.jpg" alt="Recursive Ruler Example" width="400" height="395">
 
+A few tips:
+
+- For a given _n_, think about what `recursiveRuler(n - 1)` does. How can you use `recursiveRuler(n - 1)` to help print the ruler of size _n_?
+- You may want to have more than one recursive call
+
 ### Learning Targets
 
 By the end of this assignment, you should be able to:
