@@ -26,7 +26,7 @@ Think about how to break down your implementation into functions. You should hav
 
 Include a main function that allows a user to interact with your program. The output should look like the sample below (the PIN in the sample is 75309).
 
-<img src="./letter-frequency-analyzer-example.jpg" alt="Letter Frequency Analyzer Example" width="800" height="134">
+<img src="./pin-authentication-example.jpg" alt="PIN Authentication example" width="800" height="134">
 
 ### Learning Targets
 
