@@ -36,7 +36,7 @@ def checkPIN(pin1, pin2):
 
 def main():
   VALID_DIGITS = [0,1,2,3,4,5,6,7,8,9]
-  TEST_PIN = 75309
+  TEST_PIN = "75309"
 
   cipher = generateCipher(3)
   printFormattedNumbers("PIN", VALID_DIGITS)
