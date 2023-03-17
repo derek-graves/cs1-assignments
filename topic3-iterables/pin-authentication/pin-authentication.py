@@ -1,3 +1,13 @@
+"""
+In addition to the string and list challenges of this
+assignment, sutdents must determine how best to decompose
+their program into separate functions. How they go about
+this is up to them, but they _must_ have at least three
+separate functions, in addition to a main() function that
+organizes/calls their other functions and takes user input.
+Below is one example of how to do this.
+"""
+
 from random import randint
 
 def printFormattedNumbers(numType, listOfNums):
