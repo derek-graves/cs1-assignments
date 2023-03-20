@@ -74,7 +74,7 @@ Though not a requirement, your memory game might look better if you center the w
 
 **Example 3:** The end of a game with lots of turns
 
-<img src="./memory-game-example3.jpg" alt="Memory Game Example 3" width="650" height="405">
+<img src="./memory-game-example3.jpg" alt="Memory Game Example 3" width="650" height="406">
 
 ### Learning Targets
 
