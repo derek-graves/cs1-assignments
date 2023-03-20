@@ -59,17 +59,22 @@ Though not a requirement, your memory game might look better if you center the w
 
 ### Examples
 
-**Example 1**
+**Example 1:** A regular game
 
-<img src="./" alt="" width="400" height="395">
+<img src="./memory-game-example1.jpg" alt="Memory Game Example 1" width="650" height="1577">
 
-**Example 2**
+**Example 2: ** The beginning of a game, demonstrating how your program should handle the following invalid inputs and selections:
 
-<img src="./" alt="" width="400" height="395">
+- an already matched card (0 on the second turn, in this case)
+- integer input outside the range (99)
+- matching a card with itself (1)
+- non-integer input ('whyyyyyyy')
 
-**Example 3**
+<img src="./memory-game-example2.jpg" alt="Memory Game Example 2" width="650" height="566">
 
-<img src="./" alt="" width="400" height="395">
+**Example 3:** The end of a game with lots of turns
+
+<img src="./memory-game-example3.jpg" alt="Memory Game Example 3" width="650" height="405">
 
 ### Learning Targets
 
@@ -84,3 +89,4 @@ By the end of this assignment, you should be able to:
 - Write code that maintains a high level of readability
 - Align code with industry-standard variable naming conventions
 - Build engaging interactivity into a console-based game
+-
